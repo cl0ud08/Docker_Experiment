@@ -193,7 +193,8 @@ Push the Docker image to DockerHub:
 ```bash
 docker push yourdockerhubusername/ml-model
 ```
-
+Here is the result for the same. 
+![alt text](/Users/tanishqmacbook/Desktop/Docker_Experiment/Docker_Experiments/3.StreamlitModel_Docker/StreamlitModel_Docker/Images/Screenshot 2025-03-24 at 3.10.34 PM.png)
 Conclusion 🎉
 
 Congratulations! 🎉 You’ve successfully deployed a Machine Learning model using Docker. This setup ensures that your ML model is portable, scalable, and independent of the underlying system. Docker and Streamlit together provide a powerful combination for building and deploying data-driven applications.
