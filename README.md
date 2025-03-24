@@ -8,16 +8,16 @@ Below, you’ll find a detailed description of each project, along with code sni
 
 ## Table of Contents 📑
 
-1. [Docker Basics: Hello World](#1-docker-basics-hello-world)
-2. [Streamlit App Using Docker](#2-streamlit-app-using-docker)
-3. [ML Model Using Docker](#3-ml-model-using-docker)
-4. [MySQL Using Docker](#4-mysql-using-docker)
-5. [Networking Using Docker](#5-networking-using-docker)
-6. [Full Stack App Using Docker](#6-full-stack-app-using-docker)
-7. [Docker Volume](#7-docker-volume)
-8. [ML Monitoring Dashboard with Evidently and Streamlit](#8-ml-monitoring-dashboard-with-evidently-and-streamlit)
-9. [Streamlit App on AWS EC2](#9-streamlit-app-on-aws-ec2)
-10. [Streamlit Using Evidently](#10-custom-docker-network)
+1. [Docker Basics: Hello World](#https://github.com/TanishqGupta1234/Docker_Experimemts/tree/main/1.Hello_World/Docker_Basics)
+2. [Streamlit App Using Docker](#https://github.com/TanishqGupta1234/Docker_Experimemts/tree/main/2.Streamlit_Docker/Dockers_Streamlit)
+3. [ML Model Using Docker](#https://github.com/TanishqGupta1234/Docker_Experimemts/tree/main/3.StreamlitModel_Docker/StreamlitModel_Docker)
+4. [MySQL Using Docker](#https://github.com/TanishqGupta1234/Docker_Experimemts/tree/main/4.Docker_Mysql)
+5. [Networking Using Docker](#https://github.com/TanishqGupta1234/Docker_Experimemts/tree/main/5.Docker_network/Docker_Network)
+6. [Full Stack App Using Docker](#https://github.com/TanishqGupta1234/Docker_Experimemts/tree/main/6.Docker_fullstack/Docker_FullStack)
+7. [Docker Volume](#https://github.com/TanishqGupta1234/Docker_Experimemts/tree/main/7.Docker_volume/Docker_volume)
+8. [ML Monitoring Dashboard with Evidently and Streamlit](#https://github.com/TanishqGupta1234/Docker_Experimemts/tree/main/8.Stream_evidently/Streamlit_evidently)
+9. [Streamlit App on AWS EC2](#https://github.com/TanishqGupta1234/Docker_Experimemts/tree/main/10.Docker_EC2)
+10. [Streamlit Using Evidently](#https://github.com/TanishqGupta1234/Docker_Experimemts/tree/main/9.Minikube-and-Kucetl/Minikube-and-Kucetl)
 
 ---
 
@@ -210,3 +210,30 @@ docker run -d -p 8501:8501 streamlit-app
 ```
 
 ## 10. Streamlit Using Evidently
+# **Streamlit Using Evidently**
+
+This project demonstrates how to integrate **Streamlit** with **Evidently**, an open-source tool for monitoring and analyzing machine learning models. The combination of Streamlit and Evidently allows users to create interactive dashboards for tracking model performance, detecting data drift, and analyzing key ML metrics.
+
+## **Key Features**
+- **Data Drift Detection**: Identify changes in input data distribution over time.
+- **Model Performance Monitoring**: Track key ML metrics like accuracy, precision, and recall.
+- **Interactive Dashboards**: Use Streamlit to visualize Evidently reports in a user-friendly interface.
+- **Custom Reports**: Generate detailed statistical insights for ML models.
+
+## **Getting Started**
+1. Install dependencies:
+   ```bash
+   pip install streamlit evidently pandas
+   ```
+2. Run the Streamlit app:
+   ```bash
+   streamlit run app.py
+   ```
+3. Explore the dashboard for ML model insights.
+
+## **Use Cases**
+- Real-time model monitoring in production.
+- Data quality analysis for ML pipelines.
+- Interactive visualization of ML metrics for stakeholders.
+
+🚀 **Enhance your ML model monitoring with Streamlit and Evidently!**
