@@ -138,6 +138,8 @@ The provided example focuses on monitoring the performance of a bike-sharing dem
 
 Congratulations! 🎉 You’ve successfully set up an ML Monitoring Dashboard using Evidently and Streamlit. This powerful combination enables you to monitor your ML models effectively, ensuring their reliability and performance in production environments.
 
+![image](https://github.com/vidhi-jaju/DockSpace/blob/ff8a146fe1dd823cbec9c8928ee976e68157ad40/8.%20Evidently%20AI%20Sets%20Sail%20in%20Docker/img1.png)
+
 Keep exploring and customizing the dashboard to suit your specific use cases. 🚀📊
 
 Happy monitoring! 💻✨
