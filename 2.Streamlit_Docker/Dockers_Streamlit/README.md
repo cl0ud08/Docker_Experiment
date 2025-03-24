@@ -222,4 +222,6 @@ Congratulations! 🎉 You’ve successfully deployed a Streamlit application usi
 
 Keep exploring and building more complex applications with Docker and Streamlit! 🚀🐳
 
+![alt text](Docker_Experiments/2.Streamlit_Docker/Dockers_Streamlit/Dockers_Streamlit/Dockers/Images/imge1.png)
+
 Happy coding! 💻✨
