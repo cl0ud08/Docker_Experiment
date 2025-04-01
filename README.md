@@ -1,11 +1,3 @@
-
-Here is your **README.md** file content. You can copy and save it as `README.md` in your repository.
-
----
-
-**README.md**  
-
-```md
 # 🧪 Experiment Portfolio: 10 Projects with Docker, Streamlit, and More 🚀  
 ### **By Harshit Gupta**  
 
@@ -28,7 +20,7 @@ Below, you’ll find a detailed description of each project, along with code sni
 9. [Streamlit App on AWS EC2](#9-streamlit-app-on-aws-ec2)  
 10. [Streamlit Using Evidently](#10-streamlit-using-evidently)  
 
----
+---  
 
 ## **1. Docker Basics: Hello World 🐳**  
 
@@ -150,8 +142,3 @@ This project demonstrates how to integrate **Streamlit** with **Evidently**, an 
 ### **Contributors 🙌**  
 📌 **Created by:** **Harshit Gupta**  
 📌 **GitHub:** [cl0ud08](https://github.com/cl0ud08)  
-```
-
----
-
-Save this file as `README.md` in your repository. Let me know if you need any modifications! 🚀🔥
